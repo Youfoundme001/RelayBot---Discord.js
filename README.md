@@ -12,7 +12,8 @@ The purpose of this bot is to take anything typed in 1 channel and repost it (Fr
 of your choice.
 
 Example
-#BotChannel - <prefix><#generalchats ID> This is from the bot
-#GeneralChats - Bot "This if from the bot"
+\#BotChannel - \<prefix> <#generalchats ID> This is from the bot
+
+\#GeneralChats - Bot "This if from the bot"
 
 NOTE: There has to be a space between the <channel ID> and the <message>  The bot will yell at you if you get it wrong :P
