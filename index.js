@@ -3,8 +3,11 @@ const client = new Discord.Client();
 const { 
     prefix,
     token,
-    RequiredRoleRole
+    RequiredRole
 } = require('./config.json');
+
+//RequiredRole can be changed to anything ROLE you use on your discord
+
 
 client.once('ready', () => {
     console.log('RelayBot');
